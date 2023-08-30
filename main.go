@@ -9,9 +9,10 @@
 package main
 
 import (
-	swagger "go-server/go"
 	"log"
 	"net/http"
+
+	swagger "github.com/fbcharles747/go-server/go"
 	// WARNING!
 	// Change this to a fully-qualified import path
 	// once you place this file into your project.
